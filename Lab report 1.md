@@ -92,6 +92,7 @@ Absolute path: `/Users/froot/lecture1`
 
 The output is an error, because cat is used for concatenating and displaying file contents.
 * file
+
 ```
 froot@Lorins-Laptop lecture1 % cat Hello.java
 import java.io.IOException;
@@ -106,6 +107,7 @@ public class Hello {
   }
 }%
 ```
+
 Absolute path: `/Users/froot/lecture1`
 
 `cat` followed by a file means to display file contents for that file. In this case, Hello.java was displayed just as intended.
