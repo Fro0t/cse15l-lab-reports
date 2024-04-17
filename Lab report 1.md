@@ -74,7 +74,7 @@ The output is not an error.
 * no argument
 ```
 froot@Lorins-Laptop lecture1 % cat
-
+‎ 
 ```
 Absolute path: `/Users/froot/lecture1`
 
