@@ -72,12 +72,10 @@ The output is not an error.
 
 ---
 * no argument
-* ---
 ```
 froot@Lorins-Laptop lecture1 % cat
 
 ```
----
 Absolute path: `/Users/froot/lecture1`
 
 `cat` followed by nothing means waiting for input. Until I input something, it will not execute anything.
