@@ -34,5 +34,8 @@ static void reverseInPlace(int[] arr) {
   }
 }
 ```
+
+# Part 2
+
 * Explanation
 The original buggy version fails to convert the second half of the values to the first half, because the first half already changed. This revision swaps both ends at the same time, and stops midpoint, so that no one would be missed out.
