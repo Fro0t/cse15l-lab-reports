@@ -39,3 +39,16 @@ The original buggy version fails to convert the second half of the values to the
 
 # Part 2
 
+* `find` command
+```
+find . -mtime +30
+```
+```
+find . -size +1M
+```
+```
+find . -type d -empty
+```
+```
+find . -maxdepth 1 -type f
+```
