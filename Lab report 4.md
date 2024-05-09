@@ -125,4 +125,5 @@ The original examples that I selected were the following:
 * `find . -mtime +30`
 * `find . -size +1M`
 * `find . -type d -empty`
+
 I incorporated the formatting, and changed all the commands into what fits the `./technical` directories and files.
