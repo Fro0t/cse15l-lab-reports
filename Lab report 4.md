@@ -117,3 +117,12 @@ froot@Lorins-Laptop technical % find . -maxdepth 1
 froot@Lorins-Laptop technical % find . -maxdepth 0                                        
 .
 ```
+
+## Citation
+The prompt I gave ChatGPT was: "Give me 16 interesting command-line potions or alternative ways to use the command `find`". And then I picked 4 out of them.
+The original examples that I selected were the following:
+* `find . -name "*.tmp" -delete`
+* `find . -mtime +30`
+* `find . -size +1M`
+* `find . -type d -empty`
+I incorporated the formatting, and changed all the commands into what fits the `./technical` directories and files.
