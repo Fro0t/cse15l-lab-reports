@@ -29,3 +29,7 @@ Press `<up><up><up><up><up><up><up><enter>` to bring out the command `bash test.
 <img width="606" alt="image" src="https://github.com/Fro0t/cse15l-lab-reports/assets/165719298/9cfc4cea-6b59-4782-ba5b-cde943ba4d9b">
 
 Press `<up><up><up><up><up><up><up><enter>` to bring out the command `git add .;git commit -m "fixed";git push origin main`, which pushes the changes to our repository and adds a brief message saying "fixed".
+
+---
+
+Usually, I would choose arrow keys to quickly select past commands that I've ran to speed up the process. However, for short commands, I still prefer typing them out because it saves more time just typing them out and it gives a great idea of what I'm doing and what I'm about to do next.
